@@ -1,0 +1,39 @@
+" ============================================================================
+" Netrw Directory Listing                                        (netrw v171)
+"   /
+"   Sorted by size
+"   Quick Help: <F1>:help  -:go up dir  D:delete  R:rename  s:sort-by  x:special
+" ==============================================================================
+../
+/
+| .autorelabel
+| bin@	 --> usr/bin
+| boot/
+| dev/
+| etc/
+| home/
+| lib64@	 --> usr/lib64
+| lib@	 --> usr/lib
+| local/
+| media/
+| mnt/
+| opt/
+| proc/
+| root/
+| | .ssh/
+| | mumbai/
+| | | .git/
+| | | myfile/
+| | .bash_logout
+| | .gitconfig
+| | .cshrc
+| | .tcshrc
+| | .bash_profile
+| | .bashrc
+| run/
+| sbin@	 --> usr/sbin
+| srv/
+| sys/
+| tmp/
+| usr/
+| var/
